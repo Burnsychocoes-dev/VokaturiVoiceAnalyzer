@@ -1,0 +1,65 @@
+﻿  stdafx.cpp
+  ConsoleApplication3.cpp
+ConsoleApplication3.cpp(41): warning C4244: 'return' : conversion de 'int64_t' en 'int', perte possible de données
+ConsoleApplication3.cpp(108): warning C4244: 'initialisation' : conversion de 'int64_t' en 'int32_t', perte possible de données
+ConsoleApplication3.cpp(114): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(114): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(114): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(114): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(167): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(167): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(167): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(167): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(169): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(169): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(169): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(169): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(172): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(172): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(172): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(172): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(269): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'int64_t'
+  ConsoleApplication3.cpp(269): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(269): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(269): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(303): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(303): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(303): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(303): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(305): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(305): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(305): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(305): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(308): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(308): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(308): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(308): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(427): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'int64_t'
+  ConsoleApplication3.cpp(427): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(427): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(427): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(552): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(552): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(552): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(552): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(554): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(554): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(554): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(554): note: utilisez '%I64d' dans la chaîne de format
+ConsoleApplication3.cpp(557): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  ConsoleApplication3.cpp(557): note: utilisez '%lld' dans la chaîne de format
+  ConsoleApplication3.cpp(557): note: utilisez '%Id' dans la chaîne de format
+  ConsoleApplication3.cpp(557): note: utilisez '%I64d' dans la chaîne de format
+  dllmain.cpp
+  MeasureWav.cpp
+  SharedBuffer.cpp
+  Vokaturi9.cpp
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\Sound.h(66): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+Vokaturi9.cpp(179): warning C4244: 'initialisation' : conversion de 'flint' en 'int', perte possible de données
+Vokaturi9.cpp(211): warning C4244: 'initialisation' : conversion de 'flint' en 'int', perte possible de données
+Vokaturi9.cpp(218): warning C4244: 'initialisation' : conversion de 'flint' en 'int', perte possible de données
+     Création de la bibliothèque C:\Users\radje\Documents\GitHub\VokaturiVoiceAnalyzer\ConsoleApplication3\x64\Release\ConsoleApplication3.lib et de l'objet C:\Users\radje\Documents\GitHub\VokaturiVoiceAnalyzer\ConsoleApplication3\x64\Release\ConsoleApplication3.exp
+  Génération de code en cours
+  All 55 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  ConsoleApplication3.vcxproj -> C:\Users\radje\Documents\GitHub\VokaturiVoiceAnalyzer\ConsoleApplication3\x64\Release\ConsoleApplication3.dll

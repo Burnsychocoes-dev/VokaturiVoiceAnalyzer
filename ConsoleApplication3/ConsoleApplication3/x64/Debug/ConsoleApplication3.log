@@ -1,0 +1,64 @@
+﻿  stdafx.cpp
+  Vokaturi9.cpp
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\sound.h(66): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\vokaturi9.cpp(179): warning C4244: 'initialisation' : conversion de 'flint' en 'int', perte possible de données
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\vokaturi9.cpp(211): warning C4244: 'initialisation' : conversion de 'flint' en 'int', perte possible de données
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\vokaturi9.cpp(218): warning C4244: 'initialisation' : conversion de 'flint' en 'int', perte possible de données
+  SharedBuffer.cpp
+  MeasureWav.cpp
+  dllmain.cpp
+  ConsoleApplication3.cpp
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(40): warning C4244: 'return' : conversion de 'int64_t' en 'int', perte possible de données
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(107): warning C4244: 'initialisation' : conversion de 'int64_t' en 'int32_t', perte possible de données
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(113): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(113): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(113): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(113): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(166): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(166): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(166): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(166): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(168): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(168): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(168): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(168): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(171): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(171): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(171): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(171): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(268): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(268): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(268): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(268): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(302): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(302): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(302): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(302): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(304): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(304): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(304): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(304): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(307): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(307): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(307): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(307): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(426): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(426): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(426): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(426): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(551): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(551): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(551): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(551): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(553): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(553): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(553): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(553): note: utilisez '%I64d' dans la chaîne de format
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(556): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'volatile int64_t'
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(556): note: utilisez '%lld' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(556): note: utilisez '%Id' dans la chaîne de format
+  c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\consoleapplication3.cpp(556): note: utilisez '%I64d' dans la chaîne de format
+  Génération de code en cours...
+c:\users\radje\documents\github\vokaturivoiceanalyzer\consoleapplication3\consoleapplication3\measurewav.cpp(59): warning C4715: 'main2' : les chemins de contrôle ne retournent pas tous une valeur
+MSVCRTD.lib(exe_main.obj) : error LNK2019: symbole externe non résolu main référencé dans la fonction "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\radje\Documents\GitHub\VokaturiVoiceAnalyzer\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe : fatal error LNK1120: 1 externes non résolus
